@@ -25,6 +25,6 @@ The solver processes input files containing node coordinates and element definit
 * Simulation Time: 500s
 
 ## How to Run
-1. Open `ConsoleApplication1.sln` in Visual Studio.
+1. Open `MES.sln` in Visual Studio.
 2. Build the project in Release/Debug mode.
 3. Provide an input file (e.g., from the `data/` folder) to run the simulation.
